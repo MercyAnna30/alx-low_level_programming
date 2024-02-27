@@ -1,6 +1,6 @@
 #!/bin/bash
-Tasks
-0. A library is not a luxury but one of the necessities of life
+            ## TASKS
+####0. A library is not a luxury but one of the necessities of life
 Create the static library libmy.a containing all the functions listed below:
 int _putchar(char c);
 int _islower(int c);
@@ -123,7 +123,7 @@ julien@ubuntu:~/0x09. Static Librairies$ ./quote
 julien@ubuntu:~/0x09. Static Librairies$
 =============================================
 
-1. Without libraries what would we have? We have no past and no future.
+####11. Without libraries what would we have? We have no past and no future.
 Create a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory.
 julien@ubuntu:~/0x09. Static Librairies$ ls *.c
 0-isupper.c  0-strcat.c  1-isdigit.c  1-strncat.c  2-strlen.c   3-islower.c  3-strcmp.c  4-isalpha.c  5-strstr.c  9-strcpy.c  _putchar.c
